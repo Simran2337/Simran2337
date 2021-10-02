@@ -6,4 +6,4 @@ This is Simran Mittal, currently pursuing B.Tech in Techno Main Salt Lake in Com
  - Developement
 ### Reach out to me at
  - simranmittal2337@gmail.com
- - linkedin.com/in/simran-mittal-48061a101
+ - https://linkedin.com/in/simran-mittal-48061a101
