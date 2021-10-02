@@ -1,12 +1,9 @@
 ### Hi there 👋
-This is Simran Mittal, currently pusuing B.Tech in Techno Main Salt Lake in Computer Science and Engineering.
-
-- 🔭 I’m currently working 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+This is Simran Mittal, currently pursuing B.Tech in Techno Main Salt Lake in Computer Science and Engineering.
+### Ask me about
+ - Coding
+ - Databases
+ - Developement
+### Reach out to me at
+ - simranmittal2337@gmail.com
+ - linkedin.com/in/simran-mittal-48061a101
