@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is Simran Mittal, currently pursuing B.Tech in Techno Main Salt Lake in Computer Science and Engineering.
 ### Ask me about
- - Coding
+ - :computer: Coding
  - Databases
  - Developement
 ### Reach out to me at
